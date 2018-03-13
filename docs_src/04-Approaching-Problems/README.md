@@ -15,6 +15,7 @@ You can't find a truly novel solution without a truly novel perspective.
 * [constraints](#constraints)   
 * [common constraints](#common-constriants)  
 * [decomposition](#decomposition)
+* [activity](#activity)
 * [resources](#resources)
 
 ___
@@ -108,6 +109,20 @@ I'm sure there are more benefits to breaking down large problems, but these shou
 Getting good at this will just take practice.    
   
   
+[TOP](#index)
+
+___
+
+## Activity
+
+### Full class
+
+i guide them through this process
+
+### small groups
+
+they practice it with a relevent case study
+
 [TOP](#index)
 
 ___

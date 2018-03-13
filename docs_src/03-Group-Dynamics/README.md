@@ -13,6 +13,7 @@ This markdown will provide an overview of findings related to group dynamics.
 * [Group Creativity](#group-creativity)
 * [Collaborative Learning](#collaborative-learning)
 * [Group Roles](#Group-roles)
+* [Activity](#activity)
 * [Resources](#resources)
 
 ___
@@ -38,7 +39,13 @@ ___
 ## Group Roles
 
 [TOP](#index)
+___
 
+## Activity
+
+coming soon
+
+[TOP](#activity)
 ___
 
 ## Resources

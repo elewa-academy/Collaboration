@@ -59,6 +59,24 @@ There is no single solution to this, but there are a few things you can do ahead
 coming soon
 ______
 
+## activity
+
+first draft:
+
+in pairs, choose a subject that you both know something about.
+
+write lists of what you do know, don't know, and aren't sure about
+
+write a list of questions to explore - choose 3 related ones
+
+turn those 3 into a "study theses" - what you want to learn & why that
+
+then do what you did for the previous activity for that thesis
+
+___
+
+## Resources
+
 So that's studying.  Roughly.  
 
 https://thinkeracademy.com/5-study-skills-to-accelerate-your-learning/

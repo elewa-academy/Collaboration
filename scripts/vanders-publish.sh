@@ -5,7 +5,7 @@ git checkout master
 # delete contents in /docs to avoid conflicts
 rm -rf ./docs
 # pull other changes
-git pull elewa master
+git pull vanders master
 # enter gitbook source
 cd docs_src
 # build new gitbook
@@ -21,7 +21,7 @@ cd ..
 git add .
 git commit -m 'publishing'
 # publish changes
-git push elewa master
+git push vanders master
 
 # to execute this file run this command in terminal:
 # chmod a+x ./publish.sh

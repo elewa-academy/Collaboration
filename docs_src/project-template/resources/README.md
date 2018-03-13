@@ -1,3 +1,0 @@
-code to study - full projects, parts of project, ...  
-links to general-resources book  
-guided tutorials  

@@ -1,5 +1,8 @@
-this readme is the cover page of your project series  
-individual projects are contained in copies of the project-template folder within this directory
+give specs
+
+basic beaver project?
+
+
 
 ___
 ___

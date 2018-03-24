@@ -1,5 +1,7 @@
-this readme is states the theme of this series of projects.  
-contains links to /docs_src and the gitbook
+this readme is the cover page of your project series  
+individual projects are contained in copies of the project-template folder within this directory
+
+https://www.forbes.com/sites/mikekappel/2016/04/25/how-empathetic-design-gives-your-software-company-a-competitive-edge/#2cfbceca5c1e
 
 ___
 ___

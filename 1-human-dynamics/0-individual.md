@@ -6,6 +6,7 @@ You are already very effective at solving problems in your own field with your o
 
 In order to contribute in this context you must be able to flexibly understand and adopt your collaborators' view-points. 
 
+yes communication is good, but it's no use if you aren't ready to hear what's being said.
 
 ### Index
 * [Being Wrong](#being-wrong)
@@ -69,14 +70,9 @@ ___
 
 ## Asking Good Questions
 
-Often, in formulating a clear question you will find your answer.
-Analyzing your list of questions, you can see:
-Am I on topic?
-Am I distracted in breadth or depth?
-What seem to be recurring confusions? 
-Can I trace those to a common source?
-Automatically building up a study plan for the next days.
-If you do a good job organizing your questions.
+
+
+how would 
 
 good study questions come in many forms:
 	not open ended 
@@ -144,7 +140,7 @@ ___
 
 ## Resources
 
-links to external resources
+studying/motivation
 
 [TOP](#index)
 

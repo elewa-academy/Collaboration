@@ -1,4 +1,6 @@
-# Effective Studying
+# Studying for Collaboration
+
+-- merge into 0 and link to fundamntals book
 
 Studying is updating your mental models through effective questioning.
 
@@ -67,17 +69,25 @@ in pairs, choose a subject that you both know something about.
 
 write lists of what you do know, don't know, and aren't sure about
 
-write a list of questions to explore - choose 3 related ones
+share and discuss those lists
 
-turn those 3 into a "study theses" - what you want to learn & why that
+map how your knowledge overlaps and complements
 
-then do what you did for the previous activity for that thesis
+write a study plan for your partner to learn what you know and they don't
+
+
+
+
 
 ___
 
 ## Resources
 
 So that's studying.  Roughly.  
+
+put these in fundamentals?
+
+link to fundamentals
 
 https://thinkeracademy.com/5-study-skills-to-accelerate-your-learning/
 

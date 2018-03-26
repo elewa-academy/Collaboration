@@ -1,7 +1,7 @@
 # Summary
 
 * [Collaboration](README.md)   
-* [1. Human Dynamics](./1-human-dynamics/1-changing-perspectives.md)
+* [1. Human Dynamics](./1-human-dynamics/README.md)
   * [Changing Perspectives](./1-human-dynamics/0-changing-perspectives.md)
   * [Open Communication](./1-human-dynamics/1-open-communication.md)
   * [Group Dynamics](./1-human-dynamics/2-group-dynamics.md)

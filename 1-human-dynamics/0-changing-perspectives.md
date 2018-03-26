@@ -2,21 +2,21 @@
 
 Being able to learn and unlearn new perspectives is the fundamental skill required for effective collaboration.  
 
-You are already very effective at meeting problems in your own field with your own methods.  But the point of collaboration isn't to get more people implementing your methods. The goal of collaborative problem solving is to gather a variety of experts and create new, hybrid lenses for understanding your challenge. 
+You are already very effective at meeting challenges in your own field with your own methods.  But the point of collaboration isn't to get more people implementing your methods. The goal of collaborative problem solving is to gather a variety of experts and create new, hybrid lenses for understanding your challenge. 
 
-You will be continually confronted with new perspectives, new tools, and new knowledge.  You ability to internalize, integrate, and apply your collaborators' perspectives can make or break a collaborative effort.
+You will continually be confronted with new perspectives, new tools, and new knowledge.  You ability to internalize, integrate, and apply your collaborators' perspectives will make or break a collaborative effort.
 
 
-Take the collaborator's oath:
+The collaborator's oath:
 >  You are always right if I understand why. I do not need to be right, I can be wrong. 
 >  You can always be right if I understand why. I can always be wrong if I understand how.
+> Everyone is right from some perspective, everyone is wrong in some perspective.  I will do my best to first learn the best perspective for each challenge, only then will I decide which path is correct.
 
 ### Index
 * [Being Wrong](#being-wrong)
 * [Empathies](#empathies)
 * [Asking Good Questions](#asking-good-questions)
 * [Flexible Learning](#flexible-learning)
-* [Activity](#activity)
 * [Resources](#resources)
 
 ___
@@ -59,10 +59,21 @@ ___
 
 ## Empathies
 
+This isn't a sentimental empathy.  we're talking about developing the skills necessary to build a concrete understanding of someone else's perspective.  What fundamental beliefs underly their world? how will they react? why do they believe what they do? ...
+
 cognitive & emotive
 cognitive vs emotive
 
 http://blog.teleosleaders.com/2013/07/19/emotional-empathy-and-cognitive-empathy/
+
+
+understanding empathy
+	https://lesley.edu/article/the-psychology-of-emotional-and-cognitive-empathy
+
+
+* applying empathy
+	practice it, then use it
+	https://www.uxmatters.com/mt/archives/2015/04/practical-empathy.php
 
 
 [TOP](#index)

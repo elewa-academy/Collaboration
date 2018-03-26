@@ -158,26 +158,6 @@ https://goal-lab.psych.umn.edu/orgpsych/readings/14.%20Teams/LePine%20(2005).pdf
 
 ___
 
-## Activity
-
-begin with socializing
-	have fun
-	get to know each other
-	don't talk about work or the task
-	cooperative games
-turn taking / being heard
-	multiple rounds of suggestions
-		- to make acceptable 
-		worst idea you can think of 
-		better idea
-		best ideas
-	write ideas down before, pass them around, present for that idea
-do short simpler tasks together
-	they be subtasks? or not?
-	then the big one
-
-[TOP](#activity)
-___
 
 ## Resources
 

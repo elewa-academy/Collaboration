@@ -11,6 +11,7 @@ The collaborator's oath:
 >  You are always right if I understand why. I do not need to be right, I can be wrong. 
 >  You can always be right if I understand why. I can always be wrong if I understand how.
 > Everyone is right from some perspective, everyone is wrong in some perspective.  I will do my best to first learn the best perspective for each challenge, only then will I decide which path is correct.
+> I am neither right nor wrong until we agree on a context/perspective/set-of-facts
 
 ### Index
 * [Being Wrong](#being-wrong)
@@ -81,7 +82,7 @@ ___
 
 ## Asking Good Questions
 
-
+- link to or modify from studying&motivation
 
 how would 
 
